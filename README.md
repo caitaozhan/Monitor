@@ -10,3 +10,4 @@ How to use this shell code:
 
 The result should be somethis like this:
 
+![shell result](https://dn-anything-about-doc.qbox.me/document-uid59274labid1976timestamp1470128061500.png/wm)
